@@ -1,0 +1,6 @@
+{
+  "name": "LinkKeep - Repositório de Posts & Links",
+  "description": "Salve e organize posts do Instagram, TikTok, X, Bluesky, Threads e web em pastas temáticas com suporte a compartilhamento nativo para Android e iOS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
