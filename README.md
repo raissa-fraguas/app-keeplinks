@@ -29,7 +29,7 @@ Ele permite que você guarde URLs de qualquer rede social e as organize em categ
 
 ## 🛠️ Tecnologias Utilizadas
 
-Este projeto é construído com uma stack moderna e performática:
+Este projeto é construído com uma stack moderna:
 
 - **Runtime & Package Manager**: [Bun](https://bun.sh/)
 - **Frontend**: [React 19](https://react.dev/) + [TypeScript](https://www.typescriptlang.org/)
